@@ -40,7 +40,7 @@
     }
   },
   "umans-glm-5.2": {
-    "thinkingLevelMap": { "off": "none" },
+    "thinkingLevelMap": { "off": "none", "minimal": null, "low": null, "medium": null, "high": "high", "xhigh": "max" },
     "compat": {
       "supportsDeveloperRole": false,
       "supportsReasoningEffort": true,
@@ -48,7 +48,7 @@
     }
   },
   "umans-glm-5.2-nvfp4": {
-    "thinkingLevelMap": { "off": "none" },
+    "thinkingLevelMap": { "off": "none", "minimal": null, "low": null, "medium": null, "high": "high", "xhigh": "max" },
     "compat": {
       "supportsDeveloperRole": false,
       "supportsReasoningEffort": true,
