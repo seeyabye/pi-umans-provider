@@ -31,6 +31,14 @@
       "requiresReasoningContentOnAssistantMessages": true
     }
   },
+  "umans-kimi-k3": {
+    "thinkingLevelMap": { "off": "low", "minimal": null, "low": "low", "medium": null, "high": "high", "xhigh": null, "max": "max" },
+    "compat": {
+      "supportsDeveloperRole": false,
+      "supportsReasoningEffort": true,
+      "requiresReasoningContentOnAssistantMessages": true
+    }
+  },
   "umans-glm-5.1": {
     "thinkingLevelMap": { "off": "none" },
     "compat": {
