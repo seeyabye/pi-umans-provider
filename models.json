@@ -50,22 +50,6 @@
     "maxTokens": 131071
   },
   {
-    "id": "umans-glm-5.2-nvfp4",
-    "name": "Umans GLM 5.2 NVFP4 (experimental, short test from Jun 29)",
-    "reasoning": true,
-    "input": [
-      "text"
-    ],
-    "cost": {
-      "input": 0,
-      "output": 0,
-      "cacheRead": 0,
-      "cacheWrite": 0
-    },
-    "contextWindow": 405504,
-    "maxTokens": 131071
-  },
-  {
     "id": "umans-kimi-k2.7",
     "name": "Umans Kimi K2.7 Code",
     "reasoning": true,
@@ -81,6 +65,23 @@
     },
     "contextWindow": 262144,
     "maxTokens": 32768
+  },
+  {
+    "id": "umans-kimi-k3",
+    "name": "Umans Kimi K3 (prerelease)",
+    "reasoning": true,
+    "input": [
+      "text",
+      "image"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 1048576,
+    "maxTokens": 131071
   },
   {
     "id": "umans-qwen3.6-35b-a3b",

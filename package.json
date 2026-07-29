@@ -1,6 +1,6 @@
 {
   "name": "pi-umans-provider",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "UMANS provider extension for pi - Access Kimi K2.6, GLM 5.1, Qwen 3.6, and coding-optimized models through the UMANS API",
   "type": "module",
   "main": "index.ts",
